@@ -1,4 +1,4 @@
-Moniba Pharmacy Softw
+Moniba Pharmacy Software
 Pharmacy software that enables pharmacists to sell and track the stock of their drugs
 By Obura Robinson Bill
 ## Description
