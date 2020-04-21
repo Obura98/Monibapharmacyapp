@@ -1,5 +1,5 @@
-Moniba Pharmacy Software
-Pharmacy software that enables pharmacists to sell and track the stock of their drugs
+#Moniba Pharmacy Software
+#Pharmacy software that enables pharmacists to sell and track the stock of their drugs
 By Obura Robinson Bill
 ## Description
 This a desktop_based application that I developed for a Pharmacy in Awasi,Kenya Called Moniba Pharmacy.The software enables the pharmacists to sell drugs and it records sales made daily enabling the owner of the Pharmacy to get correct details of the drugs sold and amount received. The software also enables the pharmacy staff to stock drugs and if a drug is about to be out of stock a quick reminder will be sent to the admin.The software provides two ways of logging in: one as the admin and two as the saler or pharmacy staff.The admin is able to track daily sales and even view stock of drugs while the saler logs in and sales the drugs to customers.
